@@ -1,2 +1,2 @@
 # VCDN-PROG5121-REPO
-## Review these programs, if thee are any errors, please let me know
+## Review these programs, if there are any errors you identify, please let me know
