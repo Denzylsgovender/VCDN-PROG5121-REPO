@@ -12,9 +12,17 @@ public class Product {
         this.productName = productName;
         this.quantity = quantity;
     }
-//Code Attributions
+//Code Attribution
 //OpenAI. 2024. Chat-GPT (Version 3.5). [Large language model]. Available at: https://chatgpt.com/share/67e98306-a324-8007-901d-34a392ef55f2 [Accessed: 31 March 2025].
-   
+
+     
+     //Code Attribution
+     // Title:
+     // Author:
+     //Date:
+     //Version:
+     //Availability: 
+     
     // Validate product ID format (P- followed by 4 digits)
     public boolean checkProductIdFormat() {
         return productId.matches("P-\\d{4}");
