@@ -1,0 +1,7 @@
+[
+  { "name": "Alice", "occupation": "Doctor" },
+  { "name": "Bob", "occupation": "Teacher" },
+  { "name": "Charlie", "occupation": "Engineer" },
+  { "name": "David", "occupation": "Artist" },
+  { "name": "Eve", "occupation": "Chef" }
+]
